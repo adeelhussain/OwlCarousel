@@ -31,7 +31,9 @@ See what Owl can do:
 * [More demos](http://owlgraphic.com/owlcarousel/#more-demos)
 
 ### 1.Getting Started
-Load jQuery(1.7+) and include Owl Carousel plugin files
+#### Installing options
+* Load jQuery(1.7+) and include Owl Carousel plugin files
+* Install with [Bower](http://bower.io): `bower install owlcarousel`
 
 ```html
 <!-- Basic stylesheet -->
